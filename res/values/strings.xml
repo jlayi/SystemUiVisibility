@@ -14,5 +14,9 @@
     <string name="s6">SYSTEM_UI_LAYOUT_FLAGS\r\n（沉浸式，显示在状态栏和导航栏下面，同上）</string>
     <string name="s7">SYSTEM_UI_FLAG_HIDE_NAVIGATION\r\n（隐藏导航栏，点击就显示导航栏）</string>
     <string name="s8">SYSTEM_UI_FLAG_LOW_PROFILE\r\n（隐藏导航栏里面的back和home键图标，位置不发送改变）</string>
+    <string name="s9">SYSTEM_UI_FLAG_IMMERSIVE_STICKY | SYSTEM_UI_FLAG_FULLSCREEN</string>
+    <string name="s10">SYSTEM_UI_FLAG_IMMERSIVE_STICKY | SYSTEM_UI_FLAG_HIDE_NAVIGATION</string>
+    <string name="s11">SYSTEM_UI_FLAG_IMMERSIVE | SYSTEM_UI_FLAG_HIDE_NAVIGATION</string>
+    <string name="s12">SYSTEM_UI_FLAG_LAYOUT_STABLE | SYSTEM_UI_FLAG_HIDE_NAVIGATION</string>
   
 </resources>
